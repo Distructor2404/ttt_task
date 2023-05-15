@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import Chart, { Ticks } from 'chart.js/auto';
+import Chart from 'chart.js/auto';
 import './index.css';
 
 
