@@ -101,6 +101,7 @@ function App() {
 
       <div className='container'>
         <div className='container2'>
+        <p className='p1'>Please view the page in 100% page zoom setup</p>
       <button onClick={handleButtonClick} type="button" className='btn'>Submit</button>
       </div>
       <div className='container2'>

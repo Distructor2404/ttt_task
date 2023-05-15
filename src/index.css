@@ -33,7 +33,7 @@ body {
   transform: perspective(500px) rotateY(30deg);
   box-shadow: 0 0 1em rgba(0,0,0,0.2);
   color: white;
-  cursor: pointer;
+  cursor: pointer
 
 }
 .btn:hover {
@@ -73,6 +73,12 @@ p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 20px;
   font-weight: 50px;
+}
+p.p1 {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 10px;
 }
 
 
